@@ -1,0 +1,9 @@
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Domains\bin\Debug\netcoreapp3.1\Narvan.Domains.deps.json
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Domains\bin\Debug\netcoreapp3.1\Narvan.Domains.dll
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Domains\bin\Debug\netcoreapp3.1\Narvan.Domains.pdb
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Domains\obj\Debug\netcoreapp3.1\Narvan.Domains.AssemblyInfoInputs.cache
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Domains\obj\Debug\netcoreapp3.1\Narvan.Domains.AssemblyInfo.cs
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Domains\obj\Debug\netcoreapp3.1\Narvan.Domains.csproj.CoreCompileInputs.cache
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Domains\obj\Debug\netcoreapp3.1\Narvan.Domains.dll
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Domains\obj\Debug\netcoreapp3.1\Narvan.Domains.pdb
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Domains\obj\Debug\netcoreapp3.1\Narvan.Domains.csprojAssemblyReference.cache

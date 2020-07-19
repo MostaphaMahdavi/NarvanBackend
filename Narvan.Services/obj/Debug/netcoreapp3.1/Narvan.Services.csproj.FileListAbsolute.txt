@@ -1,0 +1,12 @@
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Services\bin\Debug\netcoreapp3.1\Narvan.Services.deps.json
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Services\bin\Debug\netcoreapp3.1\Narvan.Services.dll
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Services\bin\Debug\netcoreapp3.1\Narvan.Services.pdb
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Services\bin\Debug\netcoreapp3.1\Narvan.Domains.dll
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Services\bin\Debug\netcoreapp3.1\Narvan.Domains.pdb
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Services\obj\Debug\netcoreapp3.1\Narvan.Services.csprojAssemblyReference.cache
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Services\obj\Debug\netcoreapp3.1\Narvan.Services.AssemblyInfoInputs.cache
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Services\obj\Debug\netcoreapp3.1\Narvan.Services.AssemblyInfo.cs
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Services\obj\Debug\netcoreapp3.1\Narvan.Services.csproj.CoreCompileInputs.cache
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Services\obj\Debug\netcoreapp3.1\Narvan.Services.csproj.CopyComplete
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Services\obj\Debug\netcoreapp3.1\Narvan.Services.dll
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.Services\obj\Debug\netcoreapp3.1\Narvan.Services.pdb

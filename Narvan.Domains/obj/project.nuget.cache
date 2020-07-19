@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f/t5l45Uqb9W3mZ8f4xXzNO3+Cz3bdsU7WQZQuNqJ4PcBRx74DAA/9YFy6Kd6q23fa8VbBGXsgcSckOSpEXByQ==",
+  "success": true,
+  "projectFilePath": "C:\\Angular13981017\\02\\Narvan\\BackEnd\\Narvan\\Narvan.Domains\\Narvan.Domains.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mostapha\\.nuget\\packages\\mediatr\\8.0.2\\mediatr.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

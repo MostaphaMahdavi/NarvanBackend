@@ -1,0 +1,18 @@
+﻿@model Narvan.Domains.Users.Commands.RegisterUserInfo
+
+
+<div style="text-align: center; direction: rtl; border: 1px solid black; border-radius: 5px;box-shadow:10px 10px 5px teal">
+    <h2>ایمیل فعال سازی</h2>
+    <hr/>
+    
+    <p>
+        <span style="color: tomato;font-weight: bolder">
+            @Model.FirstName @Model.LastName
+        </span> عزیز! با تشکر از ثبت نام شما در سایت ما
+    </p>
+    <p>
+        لطفا جهت فعالسازی حساب کاربری خود بر روی لینک زیر کلیک نمایید
+    </p>
+    <a href="http://localhost:4200/activeAccount/@Model.EmailActiveCode" style="color: black; border: 2px solid teal; box-shadow:3px 10px 5px rebeccapurple;text-decoration: none" >فعالسازی حساب کاربری</a>
+
+</div>

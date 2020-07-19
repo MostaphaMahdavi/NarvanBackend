@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Pagings\Commands\" />
+    <Folder Include="Pagings\Entities\" />
+    <Folder Include="Pagings\Repositories\" />
+    <Folder Include="Pagings\Queries\" />
+    <Folder Include="ProductCategories\Commands\" />
+    <Folder Include="ProductCategories\Queries\" />
+    <Folder Include="ProductCategories\Repositories\" />
+    <Folder Include="ProductGalleries\Commands\" />
+    <Folder Include="ProductGalleries\Queries\" />
+    <Folder Include="ProductGalleries\Repositories\" />
+    <Folder Include="ProductSelectedCategories\Commands\" />
+    <Folder Include="ProductSelectedCategories\Queries\" />
+    <Folder Include="ProductSelectedCategories\Repositories\" />
+    <Folder Include="Products\Commands\" />
+    <Folder Include="Products\Queries\" />
+    <Folder Include="ProductVisits\Commands\" />
+    <Folder Include="ProductVisits\Queries\" />
+    <Folder Include="ProductVisits\Repositories\" />
+    <Folder Include="Roles\Commands\" />
+    <Folder Include="Roles\Queries\" />
+    <Folder Include="Sliders\Commands\" />
+    <Folder Include="Sliders\Queries\" />
+    <Folder Include="UserRoles\Commands\" />
+    <Folder Include="UserRoles\Queries\" />
+    <Folder Include="UserRoles\Repositories\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="8.0.2" />
+
+  </ItemGroup>
+
+</Project>

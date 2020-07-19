@@ -1,0 +1,66 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Commons\Securities\" />
+    <Folder Include="ProductCategories\Commands\Behaviors\" />
+    <Folder Include="ProductCategories\Commands\Handlers\" />
+    <Folder Include="ProductCategories\Queries\Behaviors\" />
+    <Folder Include="ProductCategories\Queries\Handlers\" />
+    <Folder Include="ProductGalleries\Commands\Behaviors\" />
+    <Folder Include="ProductGalleries\Commands\Handlers\" />
+    <Folder Include="ProductGalleries\Queries\Behaviors\" />
+    <Folder Include="ProductGalleries\Queries\Handlers\" />
+    <Folder Include="ProductSelectedCategories\Commands\Behaviors\" />
+    <Folder Include="ProductSelectedCategories\Commands\Handlers\" />
+    <Folder Include="ProductSelectedCategories\Queries\Behaviors\" />
+    <Folder Include="ProductSelectedCategories\Queries\Handlers\" />
+    <Folder Include="Products\Commands\Behaviors\" />
+    <Folder Include="Products\Commands\Handlers\" />
+    <Folder Include="Products\Queries\Behaviors\" />
+    <Folder Include="Products\Queries\Handlers\" />
+    <Folder Include="ProductVisits\Commands\Behaviors\" />
+    <Folder Include="ProductVisits\Commands\Handlers\" />
+    <Folder Include="ProductVisits\Queries\Behaviors\" />
+    <Folder Include="ProductVisits\Queries\Handlers\" />
+    <Folder Include="Roles\Commands\Behaviors\" />
+    <Folder Include="Roles\Commands\Handlers\" />
+    <Folder Include="Roles\Queries\Behaviors\" />
+    <Folder Include="Roles\Queries\Handlers\" />
+    <Folder Include="Sliders\Commands\Behaviors\" />
+    <Folder Include="Sliders\Commands\Handlers\" />
+    <Folder Include="Sliders\Queries\Behaviors\" />
+    <Folder Include="Sliders\Queries\Handlers\" />
+    <Folder Include="UserRoles\Commands\Behaviors\" />
+    <Folder Include="UserRoles\Commands\Handlers\" />
+    <Folder Include="UserRoles\Queries\Behaviors\" />
+    <Folder Include="UserRoles\Queries\Handlers\" />
+    <Folder Include="UserRoles\Validators\" />
+    <Folder Include="Users\Queries\Behaviors\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+    <PackageReference Include="FluentValidation" Version="8.6.2" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="8.6.2" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="8.6.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.5" />
+    <PackageReference Include="HtmlSanitizer" Version="5.0.331" />
+    <PackageReference Include="Serilog" Version="2.9.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="3.2.0" />
+    <PackageReference Include="Serilog.Settings.Configuration" Version="3.1.0" />
+    <PackageReference Include="Serilog.Sinks.MSSqlServer" Version="5.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.5.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUi" Version="5.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Narvan.Domains\Narvan.Domains.csproj" />
+  </ItemGroup>
+
+</Project>

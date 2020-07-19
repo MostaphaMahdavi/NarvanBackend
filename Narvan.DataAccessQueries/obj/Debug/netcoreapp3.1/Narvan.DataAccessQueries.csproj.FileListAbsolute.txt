@@ -1,0 +1,14 @@
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.DataAccessQueries\bin\Debug\netcoreapp3.1\Narvan.DataAccessQueries.deps.json
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.DataAccessQueries\bin\Debug\netcoreapp3.1\Narvan.DataAccessQueries.dll
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.DataAccessQueries\bin\Debug\netcoreapp3.1\Narvan.DataAccessQueries.pdb
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.DataAccessQueries\bin\Debug\netcoreapp3.1\Narvan.DataAccessCommands.dll
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.DataAccessQueries\bin\Debug\netcoreapp3.1\Narvan.Domains.dll
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.DataAccessQueries\bin\Debug\netcoreapp3.1\Narvan.DataAccessCommands.pdb
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.DataAccessQueries\bin\Debug\netcoreapp3.1\Narvan.Domains.pdb
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.DataAccessQueries\obj\Debug\netcoreapp3.1\Narvan.DataAccessQueries.csprojAssemblyReference.cache
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.DataAccessQueries\obj\Debug\netcoreapp3.1\Narvan.DataAccessQueries.AssemblyInfoInputs.cache
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.DataAccessQueries\obj\Debug\netcoreapp3.1\Narvan.DataAccessQueries.AssemblyInfo.cs
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.DataAccessQueries\obj\Debug\netcoreapp3.1\Narvan.DataAccessQueries.csproj.CoreCompileInputs.cache
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.DataAccessQueries\obj\Debug\netcoreapp3.1\Narvan.DataAccessQueries.csproj.CopyComplete
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.DataAccessQueries\obj\Debug\netcoreapp3.1\Narvan.DataAccessQueries.dll
+C:\Angular13981017\02\Narvan\BackEnd\Narvan\Narvan.DataAccessQueries\obj\Debug\netcoreapp3.1\Narvan.DataAccessQueries.pdb
